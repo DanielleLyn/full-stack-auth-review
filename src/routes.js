@@ -17,5 +17,4 @@ export default function routes(){
         <Route path = "/profile" component = {Profile} />
         <Route path = "/words" component = {Words} />
         </Switch>
-
 }
