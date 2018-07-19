@@ -27,9 +27,12 @@
       * login
       * logout
     * action type names
+      * USER_LOGIN
+      * USER_LOGOUT
 * Routes
   * BrowserRouter
   * /
+  * /login
   * /profile
   * /words
 
@@ -43,6 +46,7 @@
     * POST
   * /api/profile
     * GET
+  * /auth/callback
 * auth
   * Auth0
 * Files
@@ -97,3 +101,8 @@
 * Chrome
   * DevTools
     * Network tab
+
+## Words
+
+* photosynthesis
+* oligarchy

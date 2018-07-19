@@ -30,6 +30,8 @@
             * login
             * logout
         * action type names 
+            * USER_LOGIN
+            * USER_LOGOUT
 
 * Routes 
     * BrowserRouter
