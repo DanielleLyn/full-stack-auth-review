@@ -34,6 +34,7 @@
 * Routes 
     * BrowserRouter
     * / 
+    * /login
     * /profile 
     * /words
     * 
